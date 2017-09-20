@@ -1,0 +1,1 @@
+sudo su - postgres -c "nohup /data/odoo/odoo-bin --addons-path=/data/odoo/addons > /dev/null 2>/tmp/odoo/stderr &"
